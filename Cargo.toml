@@ -1,0 +1,11 @@
+[package]
+name = "suno_cleaner_rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.28"       
+hound = "3.5"         
+rfd = "0.14"          
+rustfft = "6.2"       
+
